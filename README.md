@@ -43,9 +43,11 @@
 
 ### 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiwepy&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiwepy&layout=compact&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=hiwepy&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiwepy&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiwepy&hide_border=true" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiwepy&hide_border=true" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiwepy&hide_border=true&utc_offset=8" alt="Productive Time" />
+<img src="https://streak-stats.demolab.com?user=hiwepy&hide_border=true" alt="GitHub Streak" />
 
 <p align="center">
   <a href="https://wiki.hiwepy.com">🌐 Knowledge Base</a> · 
