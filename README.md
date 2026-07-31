@@ -43,14 +43,14 @@
 
 ### 📊 GitHub
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiwepy&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiwepy&hide_border=true" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiwepy&hide_border=true" alt="Top Languages by Commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiwepy&hide_border=true&utc_offset=8" alt="Productive Time" />
-<img src="https://streak-stats.demolab.com?user=hiwepy&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loong10k&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loong10k&hide_border=true" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loong10k&hide_border=true" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loong10k&hide_border=true&utc_offset=8" alt="Productive Time" />
+<img src="https://streak-stats.demolab.com?user=loong10k&hide_border=true" alt="GitHub Streak" />
 
 <p align="center">
-  <a href="https://wiki.hiwepy.com">🌐 Knowledge Base</a> · 
+  <a href="https://wiki.loong10k.com">🌐 Knowledge Base</a> · 
   <a href="https://github.com/partme-ai">PartMe-AI</a> · 
   <a href="https://github.com/full-statck-skills">Full-Stack-Skills</a> · 
   <a href="https://github.com/octoclaw-labs">OctoClaw-Labs</a>
