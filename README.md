@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="loong10k Logo" src="./assets/logo-512.png" width="220">
+</p>
+
 <h1 align="center">Hi, I'm Loong Wan 👋</h1>
 
 <p align="center">
