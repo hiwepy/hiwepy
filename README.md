@@ -54,7 +54,7 @@
 <img src="https://streak-stats.demolab.com?user=loong10k&hide_border=true" alt="GitHub Streak" />
 
 <p align="center">
-  <a href="https://wiki.loong10k.com">🌐 Knowledge Base</a> · 
+  <a href="https://wiki.hiwepy.com">🌐 Knowledge Base</a> · 
   <a href="https://github.com/partme-ai">PartMe-AI</a> · 
   <a href="https://github.com/full-statck-skills">Full-Stack-Skills</a> · 
   <a href="https://github.com/octoclaw-labs">OctoClaw-Labs</a>
